@@ -1,0 +1,1 @@
+It is a basic client-server simulation.Each client has a queue structure for processes and have a stack structure for interrupts.Clients transmit their processes and interruipt to the server's queue.
